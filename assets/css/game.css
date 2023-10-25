@@ -1,12 +1,11 @@
 .choice-container {
     display: flex;
-    width: 20%;
-    height: 100px;
+    margin-bottom: 8px;
+    width: 100%;
     border-radius: 4px;
     background: #F6EB61;
     font-size: 20px;
-    min-width: 200px;
-    border: 2px solid black;
+    min-width: 800px;
 }
 
 .choice-container:hover {
