@@ -1,9 +1,10 @@
 body {
-    color: #fff;
+    color: black;
+    font-family: Roboto, sans-serif;
 }
 
 #highScoreList {
-    list-style: none;
+    list-style-type: none;
     margin-bottom: 40px;
 }
 
