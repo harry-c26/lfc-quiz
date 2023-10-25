@@ -1,11 +1,12 @@
 .choice-container {
     display: flex;
-    margin-bottom: 8px;
-    width: 100%;
+    width: 20%;
+    height: 100px;
     border-radius: 4px;
     background: #F6EB61;
-    font-size: 30px;
-    min-width: 800px;
+    font-size: 20px;
+    min-width: 200px;
+    border: 2px solid black;
 }
 
 .choice-container:hover {
@@ -16,20 +17,20 @@
 
 .choice-prefix {
     padding: 20px 25px;
-    color: white;
+    color: black;
 }
 
 .choice-text {
     padding: 20px;
-    width: 100%;
+    width: 80%;
 }
 
 .correct {
-    background: #C8102E;
+    background: #00B2A9;
 }
 
 .incorrect {
-    background: #00B2A9;
+    background: #C8102E;
 }
 
 /* Heads up display */
