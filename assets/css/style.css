@@ -125,6 +125,10 @@ input::placeholder {
     outline: none;
 }
 
+.end-form-container {
+    width: 300px;
+}
+
 #end-text {
     font-size: 24px;
     color: #fff;
