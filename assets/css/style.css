@@ -52,89 +52,90 @@ h1 {
 
 .text-center {
     text-align: center;
+}
 
-    .hidden {
-        display: none;
-    }
+.hidden {
+    display: none;
+}
 
-    .btn {
-        font-size: 24px;
-        padding: 20px 0;
-        width: 300px;
-        text-align: center;
-        margin-bottom: 10px;
-        text-decoration: none;
-        color: white;
-        background: #C8102E;
-        border-radius: 4px;
-    }
+.btn {
+    font-size: 24px;
+    padding: 20px 0;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    background: #C8102E;
+    border-radius: 4px;
+}
 
-    .btn:hover {
-        cursor: pointer;
-        box-shadow: 0 4 14 0 #F6EB61;
-        transition: transform 150ms;
-        transform: scale(1.03);
-    }
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 4 14 0 #F6EB61;
+    transition: transform 150ms;
+    transform: scale(1.03);
+}
 
-    .btn[disabled]:hover {
-        cursor: not-allowed;
-        box-shadow: none;
-        transform: none;
-    }
+.btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
 
-    #highscore-btn {
-        background: #00B2A9;
-    }
+#highscore-btn {
+    background: #00B2A9;
+}
 
-    #highscore-btn:hover {
-        background: 0 4 14 0 #F6EB61;
-    }
+#highscore-btn:hover {
+    background: 0 4 14 0 #F6EB61;
+}
 
-    .fa-crown {
-        font-size: 25px;
-        margin-left: 10px;
-    }
+.fa-crown {
+    font-size: 25px;
+    margin-left: 10px;
+}
 
-    /* End Page CSS */
-    .end-form-contacter {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        max-width: 300px;
-    }
+/* End Page CSS */
+.end-form-contacter {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+}
 
-    input {
-        margin-bottom: 10px;
-        width: 200px;
-        padding: 15px;
-        font-size: 18px;
-        border: 2px solid black;
-        box-shadow: 0 1 14 0;
-        border-radius: 4px;
-    }
+input {
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 15px;
+    font-size: 18px;
+    border: 2px solid black;
+    box-shadow: 0 1 14 0;
+    border-radius: 4px;
+}
 
-    input::placeholder {
-        color: #aaa;
-    }
+input::placeholder {
+    color: #aaa;
+}
 
-    #username {
-        margin-bottom: 30px;
-        width: 100%;
-        outline: none;
-    }
+#username {
+    margin-bottom: 30px;
+    width: 100%;
+    outline: none;
+}
 
-    #end-text {
-        font-size: 24px;
-        color: #fff;
-        text-align: center;
-    }
+#end-text {
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+}
 
-    #saveScoreBtn {
-        border: none;
-    }
+#saveScoreBtn {
+    border: none;
+}
 
-    .fa-home {
-        margin-left: 10px;
-        font-size: 20px;
-    }
+.fa-home {
+    margin-left: 10px;
+    font-size: 20px;
+}
