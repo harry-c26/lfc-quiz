@@ -3,7 +3,7 @@ body {
     font-family: Roboto, sans-serif;
 }
 
-#highScoreList {
+#highScoresList {
     list-style-type: none;
     margin-bottom: 40px;
 }
