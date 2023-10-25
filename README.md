@@ -1,60 +1,38 @@
-*******************************
-Using the previous READme I put together as a template
-*******************************
+# Liverpool FC Quiz
+This is a short quiz to test users knowledge of Liverpool FC.
 
-# Pizzeria Etna Website
-Pizzeria Etna website's purpose is to improve overall awareness of the restaurant in the area to increase the number of visitors and to help it stand out from the competition. Many of the restaurants in or around Aguilas use Facebook instead of their own website. The website will allow users to find the restaurant, browse the menu and book a table. 
+![](documentation/responsive-checker.jpg)  
 
-![](documentation/responsive-checker.jpg)
-
-![View Pizzeria Etna on Github Pages](https://github.com/harry-c26/pizzeria-etna)
+![View Liverpool FC Quiz on Github Pages](https://github.com/harry-c26/lfc-quiz)
 
 ##  Features
 
-### Navigation
+### Home Page
 
-*  Users will find all of the links at the top of the page for easy navigation through the website. 
-*  The Logo, Home, Menu and Book a table links take you to the relevant pages on the site.
-*  The logo brings in the first part of the Italian theme with Mount Etna as part of the logo 
+*  Users will find all of the links at the top of the page for easy navigation through the website.  
 
 ![](documentation/nav-menu.jpg)
 
-### About us section
+### Quiz Page
 
 *  This starts with the header in large bold font tells the users the name of the restaurant and is clear in case the logo doesn't load.  
-*  The About Us section provides the users with information about the restaurant.
-*  Key information including history, what differentiates them from other pizzerias and the awards they've been awarded.
 
 ![](documentation/about-us.jpg)
 
-### Where to find us
+### Progress Bar
+
+### Score Counter
+
+### Save Name Page
+
+### Leaderboard
 
 *  The Where to find us section starts with an interactive Google map showing the location of the restaurant.
 *  This section also includes the opening times, address and contact information.
 
 ![](documentation/find-us.jpg)
 
-### The footer
-
-*  The footer is a main theme of the website bringing in the Italian flag colours which are used in key sections of the homepage.
-*  The colour scheme represents the authentic Italian recipes and ingredients.
-*  In the middle of the footer are the social media icons. Each icon opens a new page to facebook, instrgram and tripadvisor.
-
-![](documentation/footer.jpg)
-
-### Menu page
-
-*  The menu page provides users with the options for starters, mains and dessert.
-*  Along with the food items there are images of the dishes from each section so users can see what they'll get when they visit.
-
-![](documentation/menu.jpg)
-
-### Book a table page
-
-*  The book a table page have an image of Aguilas as the background which ties together Italian origins and Spanish location.
-*  At the top of the background is the booking form so users can book a table at the restaurant.
-
-![](documentation/booking.jpg)
+### Title Page Icon
 
 ## Testing
 
@@ -87,42 +65,39 @@ Lighthouse check:
 
 ### Solved bugs
 
-* The main issue I had was the booking page having poor accessibility scoring. First I tried to adjust the code myself but none of the attempts worked so I looked online and found a fix as listed below. 
+* Bugs 
 
 ### Unfixed bugs
 
-* There are no bugs with the site that I'm aware of. 
+* Unknown bugs 
 
 ## Credits
 
 ### Content
 
-1. The code for the social media links was taken from the [CI Love Running project](https://github.com/harry-c26/love-running)
-2. To fix the contrast between the text and background image on the booking page I used the code from [here](https://coder-coder.com/background-image-opacity/)
-3. The code used to get the google map for the homepage was aided by [this Youtube video](https://www.youtube.com/watch?v=4U_AAGHzTok)
-4. The colours for the Italian flag in the footer came from [here](https://www.flagcolorcodes.com/italy#:~:text=What%20are%20the%20colors%20of,are%20green%2C%20white%20and%20red)
-5. The footer layout and styling was from the [w3schools how to site](https://www.w3schools.com/howto/howto_css_three_columns.asp)
-6. To create the grid for the menu I used a [grid generator](https://grid.layoutit.com/) to give the base layout ready for styling and filling
+1. Colours
+2. Logo
+3. Navicon
+4. Youtube 
 
 ### Media
 
-* The caprese image was taken from [Pixabay](https://pixabay.com/es/photos/queso-mozzarella-ensalada-caprese-5218979/)
-* The background image on the booking page was taken from [Pixabay](https://pixabay.com/photos/landscape-bay-beach-darling-clouds-5277781/)
-* All other images were provided by the owners of Pizzeria Etna.
+* LFC Logo
+* Navicon 
 
 ### Others to mention
 
-* A special thank you to Sheryl for the advice and points she gave me to look into flex box and flex grid as options for the menu page
-* The [README guide](https://github.com/kera-cudmore/readme-examples#credits) that Kera Cudmore put together was a great help as well 
+* A special thank you to support team for helping when I needed to take a break having had a number of personal distractions during the modules and completion of this project. 
+* The [README guide](https://github.com/kera-cudmore/readme-examples#credits) that Kera Cudmore put together was a great help as well. I've used my previous READme but I based on that on Kera's guide so it's only fair to give credit again.
 
 ## Further development plans
 
-* Improve the quality of the photos on the menu page
-* Add an ordering page for collections
-* Expand the home page with adjustments to the about us section with images of the owners and restaurant and adding an awards section for the ones they've received from Tripadvisor.
+* Add further questions so there is a greater question pool to select from.
+* Potential to add images, sound or videos throughout the quiz or at the end with tiers depending on the score the user achieves. 
 
 ## Things I've learned from my project
 
-* Definitely start writing the README file at the start as part of my planning and use it as a working document.
-* Breaking the page down into smaller sections and fully completing the header before moving onto the body for example. 
+* Plan ahead with more thought into how I want me project to go and what the end result should look like. 
+* Definitely start writing the README file at the start as part of my planning and use it as a working document. 
 * Committing in smaller chunks and more often. 
+* Remember less is more. My early ideas were a lot more complicated which would have been too time consuming to create. 
