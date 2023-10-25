@@ -1,3 +1,7 @@
+body {
+    color: #fff;
+}
+
 #highScoreList {
     list-style: none;
     margin-bottom: 40px;
