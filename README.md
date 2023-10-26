@@ -65,11 +65,12 @@ W3 HTML checks:
 
 CSS checks:
 ![CSS Validator check for homepage](documentation/css-validator-homepage.jpg)
-![CSS Validator check for quiz page](documentation/css-validator-menu.jpg)
-![CSS Validator check for end page](documentation/css-validator-book.jpg)
-![CSS Validator check for highscores page](documentation/css-validator-book.jpg)
+![CSS Validator check for quiz page](documentation/css-validator-game-page.jpg)
+![CSS Validator check for end page](documentation/css-validator-end-page.jpg)
+![CSS Validator check for highscores page](documentation/css-validator-highscores-page.jpg)
 
 Lighthouse check:
+
 ![Accessibility check with Lighthouse](documentation/lighthouse.jpg)
 
 ## Bugs
