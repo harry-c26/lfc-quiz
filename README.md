@@ -1,7 +1,7 @@
 # Liverpool FC Quiz
-This is a short quiz to test users knowledge of Liverpool FC.
+This is a short quiz to test users knowledge of Liverpool FC. I chose Liverpool for my quiz as I've supported the club for as long as I can remember which makes the topic fun to create and the starting questions easy to put together.
 
-![](documentation/responsive-checker.jpg)  
+![](documentation/responsive.jpg)  
 
 ![View Liverpool FC Quiz on Github Pages](https://github.com/harry-c26/lfc-quiz)
 
@@ -9,28 +9,37 @@ This is a short quiz to test users knowledge of Liverpool FC.
 
 ### Home Page
 
-*  Users will find all of the links at the top of the page for easy navigation through the website.  
+*  This is a simple landing page with a logo, start button and highscore button. This starts the colour scheme taking the colours from the Liverpool badge.  
 
-![](documentation/nav-menu.jpg)
+![](documentation/homepage.jpg)
 
-### Quiz Page
+### Game Page
 
-*  This starts with the header in large bold font tells the users the name of the restaurant and is clear in case the logo doesn't load.  
+* Continuing with the colour theme from the homepage, the game page has an easy to follow question and answer sections with the colour constrasts making is easy to read. The pointer along with the enlarging answer options allow the user to see which answer they're selecting and when chosen will either turn green or red again following the club colours. 
 
-![](documentation/about-us.jpg)
+![](documentation/game-page.jpg)
 
 ### Progress Bar
 
+* The progress bar allows the user to see how they're getting on with the quiz and above the bar it shows what question they're on and how many there are in total. 
+
+![](documentation/progress-bar.jpg)
+
 ### Score Counter
+
+* The score counter allows the user to see how many answers they've got right as they progress through the quiz. 
 
 ### Save Name Page
 
+* At the end of the quiz the user has the chance to save their name to the leaderboard with their score. Useful for tracking who has scored the most or for a personal challenge to score more the next time they play. 
+
+![](documentation/end-page.jpg)
+
 ### Leaderboard
 
-*  The Where to find us section starts with an interactive Google map showing the location of the restaurant.
-*  This section also includes the opening times, address and contact information.
+*  A simple leaderboard with the name of the user and their score. 
 
-![](documentation/find-us.jpg)
+![](documentation/highscores.jpg)
 
 ### Title Page Icon
 
@@ -39,51 +48,52 @@ This is a short quiz to test users knowledge of Liverpool FC.
 *  The website has been tested on chrome, edge and firefox and has the same appearance on all browsers.
 *  The links all work and take you to the relevant page.
 *  The website is responsive to different screen sizes and keeps a common layout on them.
-*  The booking form works and will only submit when all of the fields are filled out with the correct information. 
+*  The save user name field works and will only submit when all of the fields are filled out with the correct information. 
 
 ## Validator testing
 
-*  It has been tested on the HTML validator and has passed with 1 note regarding language when the website is set to English. As this is for menu items for an Italian restaurant I ignored this warning.
+*  It has been tested on the HTML validator and has passed.
 *  It has been tested on the CSS validator and has passed as well.
 *  I have checked the website is responsive and functions on a variety of screen sizes using AmIResponsive as well as the inspection devtools.
-*  I have also checked the site with Lighthouse which gave an overall score of 97 for accessibility. 
+*  I have also checked the site with Lighthouse which gave an overall score of 100 for accessibility. 
 
 W3 HTML checks:
 ![W3 HTML Validator check for homepage](documentation/w3-validator-homepage.jpg)
-![W3 HTML Validator check for menu page](documentation/w3-validator-menu.jpg)
-![W3 HTML Validator check for booking page](documentation/w3-validator-book.jpg)
+![W3 HTML Validator check for quiz page](documentation/w3-validator-quiz-page.jpg)
+![W3 HTML Validator check for end page](documentation/w3-validator-end-page.jpg)
+![W3 HTML Validator check for highscores page](documentation/w3-validator-highscores-page.jpg)
 
 CSS checks:
 ![CSS Validator check for homepage](documentation/css-validator-homepage.jpg)
-![CSS Validator check for menu page](documentation/css-validator-menu.jpg)
-![CSS Validator check for booking page](documentation/css-validator-book.jpg)
+![CSS Validator check for quiz page](documentation/css-validator-menu.jpg)
+![CSS Validator check for end page](documentation/css-validator-book.jpg)
+![CSS Validator check for highscores page](documentation/css-validator-book.jpg)
 
 Lighthouse check:
-![Accessibility check with Lighthouse](documentation/lighthouse-test.jpg)
+![Accessibility check with Lighthouse](documentation/lighthouse.jpg)
 
 ## Bugs
 
 ### Solved bugs
 
-* Bugs 
+* There were issues with links not being found for the end page and return home from the highscores page. Both of these were fixed with a change to the link in the relevant file. 
+* There was an issue with the highscores now showing but that was due to the colour of the text. 
 
 ### Unfixed bugs
 
-* Unknown bugs 
+* There is a bug with the end page in Mozilla but as yet I haven't been able to fix this. When you put in your name and try to save it the invalid cursor comes up instead of letting you save your score. 
 
 ## Credits
 
 ### Content
 
-1. Colours
-2. Logo
-3. Navicon
-4. Youtube 
+1. Colours - the club colours were from here(https://teamcolorcodes.com/liverpool-fc-colors/)
+2. Youtube - I followed some of this youtube video for assistance with this project(<https://www.youtube.com/watch?v=f4fB9Xg2JEY>)
 
 ### Media
 
-* LFC Logo
-* Navicon 
+* Logo - the club logo was from here(<https://logowik.com/liverpool-fc-vector-logo-3183.html>)
+* Icon - the club icon for the tab window was from here(<https://www.iconarchive.com/show/english-football-club-icons-by-giannis-zographos/Liverpool-FC-icon.html>)
 
 ### Others to mention
 
