@@ -87,13 +87,13 @@ Lighthouse check:
 
 ### Content
 
-1. Colours - the club colours were from here(https://teamcolorcodes.com/liverpool-fc-colors/)
-2. Youtube - I followed some of this youtube video for assistance with this project(<https://www.youtube.com/watch?v=f4fB9Xg2JEY>)
+1. Colours - the club colours were from [here](https://teamcolorcodes.com/liverpool-fc-colors/)
+2. Youtube - I followed some of this [youtube video](<https://www.youtube.com/watch?v=f4fB9Xg2JEY>) for assistance with this project
 
 ### Media
 
-* Logo - the club logo was from here(<https://logowik.com/liverpool-fc-vector-logo-3183.html>)
-* Icon - the club icon for the tab window was from here(<https://www.iconarchive.com/show/english-football-club-icons-by-giannis-zographos/Liverpool-FC-icon.html>)
+* Logo - the club logo was from [here](<https://logowik.com/liverpool-fc-vector-logo-3183.html>)
+* Icon - the club icon for the tab window was from [here](<https://www.iconarchive.com/show/english-football-club-icons-by-giannis-zographos/Liverpool-FC-icon.html>)
 
 ### Others to mention
 
