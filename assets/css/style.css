@@ -72,7 +72,7 @@ h1 {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 4 14 0 #F6EB61;
+    box-shadow: 0, 4, 14, 0, #F6EB61;
     transition: transform 150ms;
     transform: scale(1.03);
 }
@@ -88,7 +88,7 @@ h1 {
 }
 
 #highscore-btn:hover {
-    background: 0 4 14 0 #F6EB61;
+    background: 0, 4, 14, 0, #F6EB61;
 }
 
 .fa-crown {
@@ -111,7 +111,7 @@ input {
     padding: 15px;
     font-size: 18px;
     border: 2px solid black;
-    box-shadow: 0 1 14 0;
+    box-shadow: 0, 1, 14, 0;
     border-radius: 4px;
 }
 
